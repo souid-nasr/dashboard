@@ -1,0 +1,12 @@
+export const ADD_MODERATOR = "ADD_MODERATOR";
+export const GET_MODERATOR = "GET_MODERATOR";
+export const GET_ONE_MODERATOR = "GET_MODERATOR";
+export const LOAD_MODERATOR = "LOAD_MODERATOR";
+export const DELETE_MODERATOR = "DELETE_MODERATOR";
+export const EDIT_MODERATOR = "EDIT_MODERATOR";
+export const FAIL_MODERATOR = "FAIL_MODERATOR";
+export const LOAD_ADMIN = "LOAD_ADMIN";
+export const LOGIN_ADMIN = "LOGIN_ADMIN";
+export const AUTH_ADMIN = "AUTH_ADMIN";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const ADMIN_FAIL = "ADMIN_FAIL";
